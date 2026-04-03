@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Black Minimal Motivation Quote LinkedIn Banner](https://user-images.githubusercontent.com/90236635/232290391-f635a7fa-851f-463d-9339-bb359acef269.png)
 
 # ⛰ Tourism-website
@@ -38,3 +39,6 @@ Tourism-Website is licensed under the [MIT License](https://github.com/PritamSar
 
 ## 🙏 Support
 This project needs a ⭐️ from you. Don't forget to leave a star ⭐️"# tourism-website" 
+=======
+"# tourism-website" 
+>>>>>>> 4d53eedbab138900cfdeee49d2376f6bbdd902d0
